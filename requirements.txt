@@ -1,0 +1,5 @@
+dnspython==2.6.1
+Requests==2.31.0
+rich==13.7.1
+tldextract==5.1.2
+validators==0.28.1
